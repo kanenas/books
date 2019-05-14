@@ -7,3 +7,4 @@
 1. [ ] The Organized Mind: Thinking Straight in the Age of Information Overload >> https://www.amazon.com/Organized-Mind-Thinking-Straight-Information/dp/0147516315/
 1. [ ] High Performance Habits: How Extraordinary People Become That Way >> https://www.amazon.com/gp/product/1401952852/
 1. [ ] Deep Learning with Python >> https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438
+1. [ ] Mindfulness: A practical guide to finding peace in a frantic world >> https://www.amazon.co.uk/Mindfulness-practical-guide-finding-frantic/dp/074995308X/
