@@ -10,3 +10,4 @@
 1. [ ] Mindfulness: A practical guide to finding peace in a frantic world >> https://www.amazon.co.uk/Mindfulness-practical-guide-finding-frantic/dp/074995308X/
 1. [ ] A Mind at Play: How Claude Shannon Invented the Information Age >> https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/1476766681
 1. [ ] Leonardo da Vinci >> https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150
+1. [ ] Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones >> https://www.amazon.com/gp/product/0735211299/
