@@ -11,3 +11,4 @@
 1. [ ] A Mind at Play: How Claude Shannon Invented the Information Age >> https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/1476766681
 1. [ ] Leonardo da Vinci >> https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150
 1. [ ] Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones >> https://www.amazon.com/gp/product/0735211299/
+1. [ ] Think and Grow Rich >> https://www.amazon.co.uk/dp/1604591870/
