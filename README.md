@@ -14,3 +14,5 @@
 1. [ ] Leonardo da Vinci >> https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150
 1. [ ] Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones >> https://www.amazon.com/gp/product/0735211299/
 1. [ ] Think and Grow Rich >> https://www.amazon.co.uk/dp/1604591870/
+1. [ ] The 48 Laws of Power >> https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197/
+1. [ ] Conspiracy: A True Story of Power, Sex, and a Billionaire's Secret Plot to Destroy a Media Empire >> https://www.amazon.com/dp/0735217653/
