@@ -1,6 +1,7 @@
 ## Books to read
 
 1. [ ] The Compound Effect >> https://www.amazon.com/Compound-Effect-Darren-Hardy/dp/159315724X/ >> 2019/05/04 (19.90€)
+1. [ ] The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results >> https://www.amazon.com/gp/product/1885167776/
 1. [ ] MONEY Master the Game: 7 Simple Steps to Financial Freedom >> https://www.amazon.com/dp/1476757860/
 1. [ ] Deep Work: Rules for Focused Success in a Distracted World >> https://www.amazon.com/gp/product/1455586692/
 1. [ ] How Children Succeed >> https://www.amazon.com/gp/product/0544104404/
