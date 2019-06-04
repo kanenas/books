@@ -17,3 +17,4 @@
 1. [ ] Think and Grow Rich >> https://www.amazon.co.uk/dp/1604591870/
 1. [ ] The 48 Laws of Power >> https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197/
 1. [ ] Conspiracy: A True Story of Power, Sex, and a Billionaire's Secret Plot to Destroy a Media Empire >> https://www.amazon.com/dp/0735217653/
+1. [ ] Meditations: A New Translation >> https://www.amazon.com/gp/product/0812968255/
