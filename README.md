@@ -18,3 +18,4 @@
 1. [ ] The 48 Laws of Power >> https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197/
 1. [ ] Conspiracy: A True Story of Power, Sex, and a Billionaire's Secret Plot to Destroy a Media Empire >> https://www.amazon.com/dp/0735217653/
 1. [ ] Meditations: A New Translation >> https://www.amazon.com/gp/product/0812968255/
+1. [ ] Can't Hurt Me: Master Your Mind and Defy the Odds >> https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287
