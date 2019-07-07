@@ -6,6 +6,7 @@
 1. [ ] **Brain Rules (Updated and Expanded): 12 Principles for Surviving and Thriving at Work, Home, and School** >> https://www.amazon.com/Brain-Rules-Updated-Expanded-Principles/dp/098326337X/
 1. [ ] **How to Win Friends & Influence People** >> https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034
 1. [ ] **12 Rules for Life: An Antidote to Chaos** >> https://www.amazon.com/gp/product/0345816021/
+1. [ ] Ο θειος Πετρος και η εικασια του Γκολντμπαχ >> https://www.politeianet.gr/books/9789600329919-doxiadis-apostolos-kastaniotis-o-theios-petros-kai-i-eikasia-tou-gkolntmpach-185303
 1. [ ] The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results >> https://www.amazon.com/gp/product/1885167776/
 1. [ ] MONEY Master the Game: 7 Simple Steps to Financial Freedom >> https://www.amazon.com/dp/1476757860/
 1. [ ] Deep Work: Rules for Focused Success in a Distracted World >> https://www.amazon.com/gp/product/1455586692/
