@@ -1,6 +1,6 @@
 ## Books to read
 
-1. [ ] The Compound Effect >> https://www.amazon.com/Compound-Effect-Darren-Hardy/dp/159315724X/ >> 2019/05/04 (19.90€)
+1. [x] The Compound Effect >> https://www.amazon.com/Compound-Effect-Darren-Hardy/dp/159315724X/ >> 2019/05/04 (19.90€)
 1. [ ] Why We Sleep: Unlocking the Power of Sleep and Dreams >> https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324/ >> 2019/06/05 (12.99€)
 1. [ ] **Brain Rules for Baby (Updated and Expanded): How to Raise a Smart and Happy Child from Zero to Five** >> https://www.amazon.com/dp/0983263388/
 1. [ ] **Brain Rules (Updated and Expanded): 12 Principles for Surviving and Thriving at Work, Home, and School** >> https://www.amazon.com/Brain-Rules-Updated-Expanded-Principles/dp/098326337X/
