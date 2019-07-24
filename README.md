@@ -7,9 +7,10 @@
 1. [ ] **The Power of Habit: Why We Do What We Do in Life and Business** >> https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X
 1. [ ] **How to Win Friends & Influence People** >> https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034
 1. [ ] **12 Rules for Life: An Antidote to Chaos** >> https://www.amazon.com/gp/product/0345816021/
+1. [ ] Deep Work: Rules for Focused Success in a Distracted World >> https://www.amazon.com/gp/product/1455586692/
+1. [ ] Mindset: The New Psychology of Success >> https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/
 1. [ ] The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results >> https://www.amazon.com/gp/product/1885167776/
 1. [ ] MONEY Master the Game: 7 Simple Steps to Financial Freedom >> https://www.amazon.com/dp/1476757860/
-1. [ ] Deep Work: Rules for Focused Success in a Distracted World >> https://www.amazon.com/gp/product/1455586692/
 1. [ ] How Children Succeed >> https://www.amazon.com/gp/product/0544104404/
 1. [ ] Awaken the Giant Within : How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! >> https://www.amazon.com/gp/product/0671791540/
 1. [ ] Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers >> https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/
