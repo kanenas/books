@@ -10,6 +10,7 @@
 1. [ ] Deep Work: Rules for Focused Success in a Distracted World >> https://www.amazon.com/gp/product/1455586692/
 1. [ ] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character >> https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/ >> 2019/07/29 (16.99€)
 1. [ ] Mindset: The New Psychology of Success >> https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/
+1. [ ] Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries >> https://www.amazon.com/Loonshots-Nurture-Diseases-Transform-Industries/dp/1250185963
 1. [ ] The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results >> https://www.amazon.com/gp/product/1885167776/
 1. [ ] MONEY Master the Game: 7 Simple Steps to Financial Freedom >> https://www.amazon.com/dp/1476757860/
 1. [ ] How Children Succeed >> https://www.amazon.com/gp/product/0544104404/
