@@ -29,3 +29,4 @@
 1. [ ] Meditations: A New Translation >> https://www.amazon.com/gp/product/0812968255/
 1. [ ] Can't Hurt Me: Master Your Mind and Defy the Odds >> https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287
 1. [ ] Man's Search for Meaning >> https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273/
+1. [ ] Start With Why: How Great Leaders Inspire Everyone To Take Action >> https://www.amazon.co.uk/dp/0241958229/
