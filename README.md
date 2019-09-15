@@ -32,3 +32,4 @@
 1. [ ] Man's Search for Meaning >> https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273/
 1. [ ] Start With Why: How Great Leaders Inspire Everyone To Take Action >> https://www.amazon.co.uk/dp/0241958229/
 1. [ ] Rhythms of the Brain >> https://www.amazon.co.uk/Rhythms-Brain-Gyorgy-Buzsaki/dp/0199828237/
+1. [ ] Pensees (Penguin Classics) >> https://www.amazon.co.uk/Pensees-Penguin-Classics-Blaise-Pascal/dp/0140446451/
