@@ -33,3 +33,4 @@
 1. [ ] Start With Why: How Great Leaders Inspire Everyone To Take Action >> https://www.amazon.co.uk/dp/0241958229/
 1. [ ] Rhythms of the Brain >> https://www.amazon.co.uk/Rhythms-Brain-Gyorgy-Buzsaki/dp/0199828237/
 1. [ ] Pensees (Penguin Classics) >> https://www.amazon.co.uk/Pensees-Penguin-Classics-Blaise-Pascal/dp/0140446451/
+1. [ ] Behave: The Biology of Humans at Our Best and Worst >> https://www.amazon.co.uk/Behave-Biology-Humans-Best-Worst/dp/009957506X/
