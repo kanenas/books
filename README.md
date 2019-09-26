@@ -8,7 +8,7 @@
 1. [ ] How to Win Friends & Influence People >> https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034
 1. [ ] 12 Rules for Life: An Antidote to Chaos >> https://www.amazon.com/gp/product/0345816021/ >> 2019/09/05 (£6.99)
 1. [ ] Deep Work: Rules for Focused Success in a Distracted World >> https://www.amazon.com/gp/product/1455586692/ >> 2019/09/05 (£9.88)
-1. [ ] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character >> https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/ >> 2019/07/29 (16.99€)
+1. [x] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character >> https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/ >> 2019/07/29 (16.99€)
 1. [ ] "What Do You Care What Other People Think?": Further Adventures of a Curious Character >> https://www.amazon.co.uk/what-Care-Other-People-Think/dp/0393355640/ >> 2019/09/02 (12.74€)
 1. [ ] Mindset: The New Psychology of Success >> https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/
 1. [ ] Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries >> https://www.amazon.com/Loonshots-Nurture-Diseases-Transform-Industries/dp/1250185963
