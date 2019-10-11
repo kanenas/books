@@ -35,3 +35,4 @@
 1. [ ] Pensees (Penguin Classics) >> https://www.amazon.co.uk/Pensees-Penguin-Classics-Blaise-Pascal/dp/0140446451/
 1. [ ] Behave: The Biology of Humans at Our Best and Worst >> https://www.amazon.co.uk/Behave-Biology-Humans-Best-Worst/dp/009957506X/
 1. [ ] The Richest Man In Babylon >> https://www.amazon.co.uk/Richest-Man-Babylon-George-Clason/dp/0451205367/ >> 2019/09/26 (8.35€)
+1. [ ] The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich >> https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/
