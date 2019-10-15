@@ -37,3 +37,4 @@
 1. [ ] The Richest Man In Babylon >> https://www.amazon.co.uk/Richest-Man-Babylon-George-Clason/dp/0451205367/ >> 2019/09/26 (8.35€)
 1. [ ] The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich >> https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/
 1. [ ] The 5 Love Languages >> https://www.amazon.co.uk/5-Love-Languages-Gary-Chapman/dp/080241270X/
+1. [ ] The Strangest Secret (by Earl Nightingale) >> https://www.amazon.co.uk/Strangest-Secret-Earl-Nightingale/dp/1603865578/
