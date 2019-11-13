@@ -1,6 +1,8 @@
 ## Books to read
 
+1. [x] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character >> https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/ >> 2019/07/29 (16.99€)
 1. [x] The Compound Effect >> https://www.amazon.com/Compound-Effect-Darren-Hardy/dp/159315724X/ >> 2019/05/04 (19.90€)
+1. [x] The Richest Man In Babylon >> https://www.amazon.co.uk/Richest-Man-Babylon-George-Clason/dp/0451205367/ >> 2019/09/26 (8.35€)
 1. [ ] Why We Sleep: Unlocking the Power of Sleep and Dreams >> https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324/ >> 2019/06/05 (12.99€)
 1. [ ] Brain Rules for Baby (Updated and Expanded): How to Raise a Smart and Happy Child from Zero to Five >> https://www.amazon.com/dp/0983263388/ >> 2019/09/05 (£10.41)
 1. [ ] Brain Rules (Updated and Expanded): 12 Principles for Surviving and Thriving at Work, Home, and School >> https://www.amazon.com/Brain-Rules-Updated-Expanded-Principles/dp/098326337X/
@@ -8,7 +10,6 @@
 1. [ ] How to Win Friends & Influence People >> https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034
 1. [ ] 12 Rules for Life: An Antidote to Chaos >> https://www.amazon.com/gp/product/0345816021/ >> 2019/09/05 (£6.99)
 1. [ ] Deep Work: Rules for Focused Success in a Distracted World >> https://www.amazon.com/gp/product/1455586692/ >> 2019/09/05 (£9.88)
-1. [x] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character >> https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/ >> 2019/07/29 (16.99€)
 1. [ ] "What Do You Care What Other People Think?": Further Adventures of a Curious Character >> https://www.amazon.co.uk/what-Care-Other-People-Think/dp/0393355640/ >> 2019/09/02 (12.74€)
 1. [ ] Mindset: The New Psychology of Success >> https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/
 1. [ ] Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries >> https://www.amazon.com/Loonshots-Nurture-Diseases-Transform-Industries/dp/1250185963
@@ -34,7 +35,6 @@
 1. [ ] Rhythms of the Brain >> https://www.amazon.co.uk/Rhythms-Brain-Gyorgy-Buzsaki/dp/0199828237/
 1. [ ] Pensees (Penguin Classics) >> https://www.amazon.co.uk/Pensees-Penguin-Classics-Blaise-Pascal/dp/0140446451/
 1. [ ] Behave: The Biology of Humans at Our Best and Worst >> https://www.amazon.co.uk/Behave-Biology-Humans-Best-Worst/dp/009957506X/
-1. [ ] The Richest Man In Babylon >> https://www.amazon.co.uk/Richest-Man-Babylon-George-Clason/dp/0451205367/ >> 2019/09/26 (8.35€)
 1. [ ] The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich >> https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/
 1. [ ] The 5 Love Languages >> https://www.amazon.co.uk/5-Love-Languages-Gary-Chapman/dp/080241270X/
 1. [ ] The Strangest Secret (by Earl Nightingale) >> https://www.amazon.co.uk/Strangest-Secret-Earl-Nightingale/dp/1603865578/
