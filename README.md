@@ -42,3 +42,4 @@
 1. [ ] DotCom Secrets: The Underground Playbook for Growing Your Company Online >> https://www.amazon.co.uk/DotCom-Secrets-Underground-Playbook-Growing/dp/1630474770/
 1. [ ] Expert Secrets: The Underground Playbook for Creating a Mass Movement of People Who Will Pay for Your Advice >> https://www.amazon.co.uk/Expert-Secrets-Underground-Playbook-Creating/dp/1683504585/
 1. [ ] Stalin: The Court of the Red Tsar >> https://www.amazon.com/Stalin-Court-Simon-Sebag-Montefiore/dp/1400076781/
+1. [ ] How to Read a Book: The Classic Guide to Intelligent Reading >> https://www.amazon.com/dp/0671212095
