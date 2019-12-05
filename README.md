@@ -1,6 +1,7 @@
 ## Books to read
 
 1. [x] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character >> https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/ >> 2019/07/29 (16.99€)
+1. [ ] Think and Grow Rich >> https://www.amazon.co.uk/dp/1604591870/
 1. [x] The Compound Effect >> https://www.amazon.com/Compound-Effect-Darren-Hardy/dp/159315724X/ >> 2019/05/04 (19.90€)
 1. [x] The Richest Man In Babylon >> https://www.amazon.co.uk/Richest-Man-Babylon-George-Clason/dp/0451205367/ >> 2019/09/26 (8.35€)
 1. [ ] Why We Sleep: Unlocking the Power of Sleep and Dreams >> https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324/ >> 2019/06/05 (12.99€)
@@ -25,7 +26,6 @@
 1. [ ] A Mind at Play: How Claude Shannon Invented the Information Age >> https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/1476766681
 1. [ ] Leonardo da Vinci >> https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150
 1. [ ] Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones >> https://www.amazon.com/gp/product/0735211299/
-1. [ ] Think and Grow Rich >> https://www.amazon.co.uk/dp/1604591870/
 1. [ ] The 48 Laws of Power >> https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197/
 1. [ ] Conspiracy: A True Story of Power, Sex, and a Billionaire's Secret Plot to Destroy a Media Empire >> https://www.amazon.com/dp/0735217653/
 1. [ ] Meditations: A New Translation >> https://www.amazon.com/gp/product/0812968255/
