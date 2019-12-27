@@ -14,6 +14,7 @@
 1. [ ] "What Do You Care What Other People Think?": Further Adventures of a Curious Character >> https://www.amazon.co.uk/what-Care-Other-People-Think/dp/0393355640/ >> 2019/09/02 (12.74€)
 1. [ ] The Art Of War >> https://www.amazon.com/gp/product/1599869772/
 1. [ ] The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change >> https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619
+1. [ ] The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma >> https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748/
 1. [ ] Mindset: The New Psychology of Success >> https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/
 1. [ ] Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries >> https://www.amazon.com/Loonshots-Nurture-Diseases-Transform-Industries/dp/1250185963
 1. [ ] The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results >> https://www.amazon.com/gp/product/1885167776/
