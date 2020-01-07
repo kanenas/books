@@ -41,6 +41,7 @@
 1. [ ] Behave: The Biology of Humans at Our Best and Worst >> https://www.amazon.co.uk/Behave-Biology-Humans-Best-Worst/dp/009957506X/
 1. [ ] The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich >> https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/
 1. [ ] The 5 Love Languages >> https://www.amazon.co.uk/5-Love-Languages-Gary-Chapman/dp/080241270X/
+1. [ ] Willpower Doesn't Work: Discover the Hidden Keys to Success >> https://www.amazon.com/gp/product/0316441325/
 1. [ ] The Strangest Secret (by Earl Nightingale) >> https://www.amazon.co.uk/Strangest-Secret-Earl-Nightingale/dp/1603865578/
 1. [ ] Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster >> https://www.amazon.co.uk/Midnight-Chernobyl-Greatest-Nuclear-Disaster/dp/0552172898/
 1. [ ] DotCom Secrets: The Underground Playbook for Growing Your Company Online >> https://www.amazon.co.uk/DotCom-Secrets-Underground-Playbook-Growing/dp/1630474770/
