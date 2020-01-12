@@ -48,3 +48,5 @@
 1. [ ] Expert Secrets: The Underground Playbook for Creating a Mass Movement of People Who Will Pay for Your Advice >> https://www.amazon.co.uk/Expert-Secrets-Underground-Playbook-Creating/dp/1683504585/
 1. [ ] Stalin: The Court of the Red Tsar >> https://www.amazon.com/Stalin-Court-Simon-Sebag-Montefiore/dp/1400076781/
 1. [ ] How to Read a Book: The Classic Guide to Intelligent Reading >> https://www.amazon.com/dp/0671212095
+1. [ ] Sapiens: A Brief History of Humankind >> https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095/
+1. [ ] Outliers: The Story of Success >> https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930/
