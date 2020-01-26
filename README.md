@@ -50,3 +50,5 @@
 1. [ ] How to Read a Book: The Classic Guide to Intelligent Reading >> https://www.amazon.com/dp/0671212095
 1. [ ] Sapiens: A Brief History of Humankind >> https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095/
 1. [ ] Outliers: The Story of Success >> https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930/
+1. [ ] Range: Why Generalists Triumph in a Specialized World >> https://www.amazon.com/dp/0735214484/
+
