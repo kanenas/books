@@ -51,4 +51,6 @@
 1. [ ] Sapiens: A Brief History of Humankind >> https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095/
 1. [ ] Outliers: The Story of Success >> https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930/
 1. [ ] Range: Why Generalists Triumph in a Specialized World >> https://www.amazon.com/dp/0735214484/
+1. [ ] Cosmos >> https://www.amazon.com/Cosmos-Carl-Sagan/dp/0349107033
+1. [ ] The Demon-Haunted World: Science as a Candle in the Dark >> https://www.amazon.com/gp/product/0345409469/
 
