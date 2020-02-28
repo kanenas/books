@@ -53,4 +53,4 @@
 1. [ ] Range: Why Generalists Triumph in a Specialized World >> https://www.amazon.com/dp/0735214484/
 1. [ ] Cosmos >> https://www.amazon.com/Cosmos-Carl-Sagan/dp/0349107033
 1. [ ] The Demon-Haunted World: Science as a Candle in the Dark >> https://www.amazon.com/gp/product/0345409469/
-
+1. [ ] Rumi: The Big Red Book: The Great Masterpiece Celebrating Mystical Love and Friendship >> https://www.amazon.com/Rumi-Masterpiece-Celebrating-Mystical-Friendship/dp/0061905836/
