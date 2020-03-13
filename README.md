@@ -57,3 +57,5 @@
 1. [ ] One Flew Over the Cuckoo's Nest: (Penguin Classics Deluxe Edition) >> https://www.amazon.com/One-Flew-Over-Cuckoos-Nest/dp/0143105027
 1. [ ] The Princeton Companion to Mathematics >> https://www.amazon.com/gp/product/0691118809/
 1. [ ] Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy >> https://www.amazon.com/gp/product/0553418831
+1. [ ] The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human >> https://www.amazon.com/gp/product/0393340627/
+1. [ ] Phantoms in the Brain: Probing the Mysteries of the Human Mind >> https://www.amazon.com/Phantoms-Brain-Probing-Mysteries-Human/dp/0688172172
