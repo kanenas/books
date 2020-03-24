@@ -59,3 +59,4 @@
 1. [ ] Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy >> https://www.amazon.com/gp/product/0553418831
 1. [ ] The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human >> https://www.amazon.com/gp/product/0393340627/
 1. [ ] Phantoms in the Brain: Probing the Mysteries of the Human Mind >> https://www.amazon.com/Phantoms-Brain-Probing-Mysteries-Human/dp/0688172172
+1. [ ] The Magic of Thinking Big >> https://www.amazon.com/Magic-Thinking-Big-David-Schwartz/dp/0671646788
