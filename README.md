@@ -60,3 +60,4 @@
 1. [ ] The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human >> https://www.amazon.com/gp/product/0393340627/
 1. [ ] Phantoms in the Brain: Probing the Mysteries of the Human Mind >> https://www.amazon.com/Phantoms-Brain-Probing-Mysteries-Human/dp/0688172172
 1. [ ] The Magic of Thinking Big >> https://www.amazon.com/Magic-Thinking-Big-David-Schwartz/dp/0671646788
+1. [ ] The Artist's Way: 25th Anniversary Edition >> https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252
