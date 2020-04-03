@@ -61,3 +61,4 @@
 1. [ ] Phantoms in the Brain: Probing the Mysteries of the Human Mind >> https://www.amazon.com/Phantoms-Brain-Probing-Mysteries-Human/dp/0688172172
 1. [ ] The Magic of Thinking Big >> https://www.amazon.com/Magic-Thinking-Big-David-Schwartz/dp/0671646788
 1. [ ] The Artist's Way: 25th Anniversary Edition >> https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252
+1. [ ] The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book) >> https://www.amazon.com/gp/product/1878424319
