@@ -64,3 +64,4 @@
 1. [ ] The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book) >> https://www.amazon.com/gp/product/1878424319
 1. [ ] Make Money on Medium: Build Your Audience and Grow Your Income with Medium.com >> https://www.amazon.com/Make-Money-Medium-Audience-Medium-com/dp/1072566249/
 1. [ ] Keeping At It: The Quest for Sound Money and Good Government >> https://www.amazon.com/Keeping-At-Quest-Sound-Government/dp/1541788303/
+1. [ ] The Bees of the World >> https://www.amazon.com/Bees-World-Charles-D-Michener/dp/0801885736/
