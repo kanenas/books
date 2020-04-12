@@ -65,3 +65,5 @@
 1. [ ] Make Money on Medium: Build Your Audience and Grow Your Income with Medium.com >> https://www.amazon.com/Make-Money-Medium-Audience-Medium-com/dp/1072566249/
 1. [ ] Keeping At It: The Quest for Sound Money and Good Government >> https://www.amazon.com/Keeping-At-Quest-Sound-Government/dp/1541788303/
 1. [ ] The Bees of the World >> https://www.amazon.com/Bees-World-Charles-D-Michener/dp/0801885736/
+1. [ ] The Lives of Bees: The Untold Story of the Honey Bee in the Wild >> https://www.amazon.com/Lives-Bees-Untold-Story-Honey/dp/0691166765/
+1. [ ] Zero: The Biography of a Dangerous Idea >> https://www.amazon.com/Zero-Biography-Dangerous-Charles-Seife/dp/0140296476/
