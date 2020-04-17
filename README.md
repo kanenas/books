@@ -68,3 +68,4 @@
 1. [ ] The Lives of Bees: The Untold Story of the Honey Bee in the Wild >> https://www.amazon.com/Lives-Bees-Untold-Story-Honey/dp/0691166765/
 1. [ ] Zero: The Biography of a Dangerous Idea >> https://www.amazon.com/Zero-Biography-Dangerous-Charles-Seife/dp/0140296476/
 1. [ ] The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living: Featuring new translations of Seneca, Epictetus, and Marcus Aurelius >> https://www.amazon.com/Daily-Stoic-Meditations-Perseverance-translations/dp/1781257655/
+1. [ ] Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life >> https://www.amazon.com/dp/1541762592/
