@@ -71,3 +71,4 @@
 1. [ ] The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living: Featuring new translations of Seneca, Epictetus, and Marcus Aurelius >> https://www.amazon.com/Daily-Stoic-Meditations-Perseverance-translations/dp/1781257655/
 1. [ ] Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life >> https://www.amazon.com/dp/1541762592/
 1. [ ] Chaos: Making a New Science >> https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453/
+1. [ ] Isaac Newton >> https://www.amazon.com/Isaac-Newton-James-Gleick/dp/1400032954/
