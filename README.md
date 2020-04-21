@@ -13,6 +13,7 @@
 1. [ ] 12 Rules for Life: An Antidote to Chaos >> https://www.amazon.com/gp/product/0345816021/ >> 2019/09/05 (£6.99)
 1. [ ] Deep Work: Rules for Focused Success in a Distracted World >> https://www.amazon.com/gp/product/1455586692/ >> 2019/09/05 (£9.88)
 1. [ ] "What Do You Care What Other People Think?": Further Adventures of a Curious Character >> https://www.amazon.co.uk/what-Care-Other-People-Think/dp/0393355640/ >> 2019/09/02 (12.74€)
+1. [ ] Genius: The Life and Science of Richard Feynman >> https://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/
 1. [ ] The Art Of War >> https://www.amazon.com/gp/product/1599869772/
 1. [ ] The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change >> https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619
 1. [ ] The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma >> https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748/
@@ -69,3 +70,4 @@
 1. [ ] Zero: The Biography of a Dangerous Idea >> https://www.amazon.com/Zero-Biography-Dangerous-Charles-Seife/dp/0140296476/
 1. [ ] The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living: Featuring new translations of Seneca, Epictetus, and Marcus Aurelius >> https://www.amazon.com/Daily-Stoic-Meditations-Perseverance-translations/dp/1781257655/
 1. [ ] Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life >> https://www.amazon.com/dp/1541762592/
+1. [ ] Chaos: Making a New Science >> https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453/
