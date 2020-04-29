@@ -72,3 +72,4 @@
 1. [ ] Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life >> https://www.amazon.com/dp/1541762592/
 1. [ ] Chaos: Making a New Science >> https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453/
 1. [ ] Isaac Newton >> https://www.amazon.com/Isaac-Newton-James-Gleick/dp/1400032954/
+1. [ ] The Black Swan: Second Edition: The Impact of the Highly Improbable: With a new section: "On Robustness and Fragility" (Incerto) >> https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X
