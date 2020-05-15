@@ -73,3 +73,5 @@
 1. [ ] Chaos: Making a New Science >> https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453/
 1. [ ] Isaac Newton >> https://www.amazon.com/Isaac-Newton-James-Gleick/dp/1400032954/
 1. [ ] The Black Swan: Second Edition: The Impact of the Highly Improbable: With a new section: "On Robustness and Fragility" (Incerto) >> https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X
+1. [ ] The Man Who Loved Only Numbers: The Story of Paul Erdos and the Search for Mathematical Truth >> https://www.amazon.com/Man-Who-Loved-Only-Numbers/dp/0786884061/
+1. [ ] Napoleon: A Life >> https://www.amazon.com/Napoleon-Life-Andrew-Roberts/dp/0143127853/
