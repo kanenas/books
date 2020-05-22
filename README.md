@@ -75,3 +75,5 @@
 1. [ ] The Black Swan: Second Edition: The Impact of the Highly Improbable: With a new section: "On Robustness and Fragility" (Incerto) >> https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X
 1. [ ] The Man Who Loved Only Numbers: The Story of Paul Erdos and the Search for Mathematical Truth >> https://www.amazon.com/Man-Who-Loved-Only-Numbers/dp/0786884061/
 1. [ ] Napoleon: A Life >> https://www.amazon.com/Napoleon-Life-Andrew-Roberts/dp/0143127853/
+1. [ ] In Hoffa's Shadow: A Stepfather, a Disappearance in Detroit, and My Search for the Truth >> https://www.amazon.com/Hoffas-Shadow-Stepfather-Disappearance-Detroit/dp/1250757991/
+1. [ ] The Alzheimer's Antidote: Using a Low-Carb, High-Fat Diet to Fight Alzheimer’s Disease, Memory Loss, and Cognitive Decline >> https://www.amazon.com/gp/product/1603587098/
