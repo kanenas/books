@@ -77,3 +77,5 @@
 1. [ ] Napoleon: A Life >> https://www.amazon.com/Napoleon-Life-Andrew-Roberts/dp/0143127853/
 1. [ ] In Hoffa's Shadow: A Stepfather, a Disappearance in Detroit, and My Search for the Truth >> https://www.amazon.com/Hoffas-Shadow-Stepfather-Disappearance-Detroit/dp/1250757991/
 1. [ ] The Alzheimer's Antidote: Using a Low-Carb, High-Fat Diet to Fight Alzheimer’s Disease, Memory Loss, and Cognitive Decline >> https://www.amazon.com/gp/product/1603587098/
+1. [ ] The Untethered Soul : The Journey Beyond Yourself >> https://www.bookdepository.com/Untethered-Soul-Michael-Singer/9781572245372
+1. [ ] A Way of Being >> https://www.amazon.com/Way-Being-Carl-Rogers/dp/0395755301/
