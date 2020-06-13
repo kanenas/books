@@ -79,3 +79,4 @@
 1. [ ] The Alzheimer's Antidote: Using a Low-Carb, High-Fat Diet to Fight Alzheimer’s Disease, Memory Loss, and Cognitive Decline >> https://www.amazon.com/gp/product/1603587098/
 1. [ ] The Untethered Soul : The Journey Beyond Yourself >> https://www.bookdepository.com/Untethered-Soul-Michael-Singer/9781572245372
 1. [ ] A Way of Being >> https://www.amazon.com/Way-Being-Carl-Rogers/dp/0395755301/
+1. [ ] Little, Big >> https://www.amazon.com/Little-Big-John-Crowley/dp/0061120057/
