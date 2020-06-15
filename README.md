@@ -81,3 +81,4 @@
 1. [ ] A Way of Being >> https://www.amazon.com/Way-Being-Carl-Rogers/dp/0395755301/
 1. [ ] Little, Big >> https://www.amazon.com/Little-Big-John-Crowley/dp/0061120057/
 1. [ ] Never Split the Difference: Negotiating As If Your Life Depended On It >> https://www.amazon.com/gp/product/0062407805/
+1. [ ] The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win >> https://www.amazon.com/gp/product/1942788290/
