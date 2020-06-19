@@ -82,3 +82,4 @@
 1. [ ] Little, Big >> https://www.amazon.com/Little-Big-John-Crowley/dp/0061120057/
 1. [ ] Never Split the Difference: Negotiating As If Your Life Depended On It >> https://www.amazon.com/gp/product/0062407805/
 1. [ ] The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win >> https://www.amazon.com/gp/product/1942788290/
+1. [ ] The Idea of the Brain: The Past and Future of Neuroscience >> https://www.amazon.com/Idea-Brain-Past-Future-Neuroscience/dp/1541646851/
