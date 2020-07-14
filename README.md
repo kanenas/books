@@ -83,3 +83,7 @@
 1. [ ] Never Split the Difference: Negotiating As If Your Life Depended On It >> https://www.amazon.com/gp/product/0062407805/
 1. [ ] The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win >> https://www.amazon.com/gp/product/1942788290/
 1. [ ] The Idea of the Brain: The Past and Future of Neuroscience >> https://www.amazon.com/Idea-Brain-Past-Future-Neuroscience/dp/1541646851/
+1. [ ] Black Hole Blues and Other Songs from Outer Space >> https://www.amazon.com/Black-Blues-Other-Songs-Outer/dp/030794848X/
+1. [ ] How the Universe Got Its Spots: Diary of a Finite Time in a Finite Space >> https://www.amazon.com/How-Universe-Got-Its-Spots/dp/1400032725/
+1. [ ] A Madman Dreams of Turing Machines >> https://www.amazon.com/Madman-Dreams-Turing-Machines/dp/1400032407/
+
