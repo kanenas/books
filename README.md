@@ -86,4 +86,5 @@
 1. [ ] Black Hole Blues and Other Songs from Outer Space >> https://www.amazon.com/Black-Blues-Other-Songs-Outer/dp/030794848X/
 1. [ ] How the Universe Got Its Spots: Diary of a Finite Time in a Finite Space >> https://www.amazon.com/How-Universe-Got-Its-Spots/dp/1400032725/
 1. [ ] A Madman Dreams of Turing Machines >> https://www.amazon.com/Madman-Dreams-Turing-Machines/dp/1400032407/
-
+1. [ ] The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime! >> https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102/
+1. [ ] UNSCRIPTED: Life, Liberty, and the Pursuit of Entrepreneurship >> https://www.amazon.com/UNSCRIPTED-Life-Liberty-Pursuit-Entrepreneurship/dp/0984358161/
