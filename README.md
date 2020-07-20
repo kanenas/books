@@ -88,3 +88,4 @@
 1. [ ] A Madman Dreams of Turing Machines >> https://www.amazon.com/Madman-Dreams-Turing-Machines/dp/1400032407/
 1. [ ] The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime! >> https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102/
 1. [ ] UNSCRIPTED: Life, Liberty, and the Pursuit of Entrepreneurship >> https://www.amazon.com/UNSCRIPTED-Life-Liberty-Pursuit-Entrepreneurship/dp/0984358161/
+1. [ ] The Motivation Manifesto: 9 Declarations to Claim Your Personal Power >> https://www.amazon.com/Motivation-Manifesto-Brendon-Burchard/dp/1401948073/
