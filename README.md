@@ -93,4 +93,6 @@
 1. [ ] When Violence Is the Answer: Learning How to Do What It Takes When Your Life Is at Stake >> https://www.amazon.com/When-Violence-Answer-Learning-Takes/dp/0316354651/
 1. [ ] Chess: 5334 Problems, Combinations and Games >> https://www.amazon.com/Chess-5334-Problems-Combinations-Games/dp/1579125549
 1. [ ] Psycho-Cybernetics: Updated and Expanded >> https://www.amazon.com/Psycho-Cybernetics-Updated-Expanded-Maxwell-Maltz/dp/0399176136
+1. [ ] The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM) >> https://www.amazon.com/Miracle-Morning-Not-So-Obvious-Guaranteed-Transform/dp/0979019710/
+1. [ ] he Miracle Equation: The Two Decisions That Move Your Biggest Goals from Possible, to Probable, to Inevitable >> https://www.amazon.com/Miracle-Equation-Decisions-Possible-Inevitable/dp/1984823701/
 
