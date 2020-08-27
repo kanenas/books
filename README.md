@@ -98,4 +98,4 @@
 1. [ ] Walter Isaacson: The Genius Biographies: Benjamin Franklin, Einstein, Steve Jobs, and Leonardo da Vinci >> https://www.amazon.com/gp/product/1982130423/
 1. [ ] The Conscious Parent: Transforming Ourselves, Empowering Our Children >> https://www.amazon.com/Conscious-Parent-Transforming-Ourselves-Empowering/dp/1897238452/
 1. [ ] A New Earth: Awakening to Your Life's Purpose >> https://www.amazon.com/New-Earth-Awakening-Purpose-Selection/dp/0452289963
-1. [ ] 
+1. [ ] The Power of Now: A Guide to Spiritual Enlightenment >> https://www.amazon.com/gp/product/1577314808/
