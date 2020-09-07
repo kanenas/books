@@ -100,3 +100,4 @@
 1. [ ] A New Earth: Awakening to Your Life's Purpose >> https://www.amazon.com/New-Earth-Awakening-Purpose-Selection/dp/0452289963
 1. [ ] The Power of Now: A Guide to Spiritual Enlightenment >> https://www.amazon.com/gp/product/1577314808/
 1. [ ] My Dark Vanessa: A Novel >> https://www.amazon.com/Dark-Vanessa-Kate-Elizabeth-Russell/dp/0062941518/
+1. [ ] Change Your Brain, Change Your Life (Revised and Expanded): The Breakthrough Program for Conquering Anxiety, Depression, Obsessiveness, Lack of Focus, Anger, and Memory Problems >> https://www.amazon.com/Change-Your-Brain-Revised-Expanded/dp/110190464X
