@@ -102,3 +102,5 @@
 1. [ ] My Dark Vanessa: A Novel >> https://www.amazon.com/Dark-Vanessa-Kate-Elizabeth-Russell/dp/0062941518/
 1. [ ] Change Your Brain, Change Your Life (Revised and Expanded): The Breakthrough Program for Conquering Anxiety, Depression, Obsessiveness, Lack of Focus, Anger, and Memory Problems >> https://www.amazon.com/Change-Your-Brain-Revised-Expanded/dp/110190464X
 1. [ ] Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers >> https://www.amazon.com/Grain-Brain-Surprising-Sugar-Your-Killers/dp/0316485136/
+1. [ ] It Takes What It Takes: How to Think Neutrally and Gain Control of Your Life >> https://www.amazon.com/Takes-What-Think-Neutrally-Control/dp/0062947125
+
