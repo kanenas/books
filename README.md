@@ -108,3 +108,4 @@
 1. [ ] Finding Ultra, Revised and Updated Edition: Rejecting Middle Age, Becoming One of the World's Fittest Men, and Discovering Myself >> https://www.amazon.com/Finding-Ultra-Revised-Updated-Discovering/dp/0307952207
 1. [ ] Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen >> https://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189/
 1. [ ] Principles: Life and Work >> https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/
+1. [ ] The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win >> https://www.amazon.com/Biggest-Bluff-Learned-Attention-Master/dp/052552262X
