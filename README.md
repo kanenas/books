@@ -111,3 +111,4 @@
 1. [ ] The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win >> https://www.amazon.com/Biggest-Bluff-Learned-Attention-Master/dp/052552262X
 1. [ ] Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) >> https://www.amazon.co.uk/dp/039916524X
 1. [ ] Becoming >> https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136/
+1. [ ] Yes to Life: In Spite of Everything >> https://www.amazon.com/Yes-Life-Everything-Viktor-Frankl/dp/080700569X
