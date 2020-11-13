@@ -113,3 +113,4 @@
 1. [ ] Becoming >> https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136/
 1. [ ] Yes to Life: In Spite of Everything >> https://www.amazon.com/Yes-Life-Everything-Viktor-Frankl/dp/080700569X
 1. [ ] Greenlights >> https://www.amazon.com/Greenlights-Matthew-McConaughey/dp/0593139135
+1. [ ] Alan Turing: The Enigma: The Book That Inspired the Film The Imitation Game >> https://www.amazon.com/Alan-Turing-Enigma-Inspired-Imitation/dp/1784700088
