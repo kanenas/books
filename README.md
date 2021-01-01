@@ -116,3 +116,4 @@
 1. [ ] Alan Turing: The Enigma: The Book That Inspired the Film The Imitation Game >> https://www.amazon.com/Alan-Turing-Enigma-Inspired-Imitation/dp/1784700088
 1. [ ] The Art of Seeing Things: Essays by John Burroughs >> https://www.amazon.com/Art-Seeing-Things-Essays-Burroughs/dp/0815606788/
 1. [ ] The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever >> https://www.amazon.com/dp/0978440749/
+1. [ ] Daniels' Running Formula - 2nd Edition >> https://www.amazon.com/Daniels-Running-Formula-Jack/dp/0736054928/
