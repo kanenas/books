@@ -118,3 +118,4 @@
 1. [ ] The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever >> https://www.amazon.com/dp/0978440749/
 1. [ ] Daniels' Running Formula - 2nd Edition >> https://www.amazon.com/Daniels-Running-Formula-Jack/dp/0736054928/
 1. [ ] The Great Influenza: The Story of the Deadliest Pandemic in History >> https://www.amazon.com/Great-Influenza-Deadliest-Pandemic-History/dp/0143036491/
+1. [ ] Perennial Seller: The Art of Making and Marketing Work that Lasts >> https://www.amazon.com/gp/product/0143109014/
