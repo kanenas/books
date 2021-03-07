@@ -120,3 +120,4 @@
 1. [ ] The Great Influenza: The Story of the Deadliest Pandemic in History >> https://www.amazon.com/Great-Influenza-Deadliest-Pandemic-History/dp/0143036491/
 1. [ ] Perennial Seller: The Art of Making and Marketing Work that Lasts >> https://www.amazon.com/gp/product/0143109014/
 1. [ ] The Art of Learning: An Inner Journey to Optimal Performance >> https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
+1. [ ] The Wim Hof Method: Activate Your Full Human Potential >> https://www.amazon.com/Wim-Hof-Method-Activate-Potential/dp/1683644093/
