@@ -122,3 +122,4 @@
 1. [ ] The Art of Learning: An Inner Journey to Optimal Performance >> https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
 1. [ ] The Wim Hof Method: Activate Your Full Human Potential >> https://www.amazon.com/Wim-Hof-Method-Activate-Potential/dp/1683644093/
 1. [ ] The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race >> https://www.amazon.com/Code-Breaker-Jennifer-Doudna-Editing/dp/1982115858/
+1. [ ] Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts >> https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions/dp/0735216355
