@@ -125,3 +125,4 @@
 1. [ ] Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts >> https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions/dp/0735216355
 1. [ ] The Cancer Code: A Revolutionary New Understanding of a Medical Mystery (The Wellness Code) >> https://www.amazon.com/dp/0062894005/
 1. [ ] Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life >> https://www.amazon.com/Limitless-Upgrade-Anything-Faster-Exceptional/dp/1401958230
+1. [ ] Effortless: Make It Easier to Do What Matters Most >> https://www.amazon.com/Effortless-Make-Easier-What-Matters/dp/0593135644/
