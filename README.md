@@ -126,3 +126,4 @@
 1. [ ] The Cancer Code: A Revolutionary New Understanding of a Medical Mystery (The Wellness Code) >> https://www.amazon.com/dp/0062894005/
 1. [ ] Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life >> https://www.amazon.com/Limitless-Upgrade-Anything-Faster-Exceptional/dp/1401958230
 1. [ ] Effortless: Make It Easier to Do What Matters Most >> https://www.amazon.com/Effortless-Make-Easier-What-Matters/dp/0593135644/
+1. [ ] Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future >> https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X
